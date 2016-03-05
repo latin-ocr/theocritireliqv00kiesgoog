@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theocritireliqv00kiesgoog_0010.png"; bbox 0 0 2816 5014; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 274 1341 952 1721">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 274 1341 952 1721">
+     <span class='ocr_line' id='line_1_1' title="bbox 274 1341 952 1452; baseline 0.006 -4"><span class='ocrx_word' id='word_1_1' title='bbox 274 1341 952 1452; x_wconf 63' lang='grc' dir='ltr'><em>ΘἘΟΗΡΙΤΟΥ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 566 1667 859 1721; baseline -0.003 0"><span class='ocrx_word' id='word_1_2' title='bbox 566 1667 652 1721; x_wconf 66' lang='grc' dir='ltr'><em>τον</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 856 1688 859 1694; x_wconf 67' lang='lat'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 385 1919 1022 1996">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 385 1919 1022 1996">
+     <span class='ocr_line' id='line_1_3' title="bbox 385 1919 1022 1996; baseline 0.005 -3"><span class='ocrx_word' id='word_1_4' title='bbox 385 1919 846 1996; x_wconf 84' lang='grc' dir='ltr'><em>ΣΥΡΑΚΟΥΣΙΟΥ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1020 1949 1022 1954; x_wconf 95' lang='grc'><strong><em>·</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 54 2171 1134 2315">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 54 2171 1208 2315">
+     <span class='ocr_line' id='line_1_4' title="bbox 54 2171 1134 2315; baseline 0.01 -9"><span class='ocrx_word' id='word_1_6' title='bbox 54 2171 1134 2315; x_wconf 79' lang='grc' dir='ltr'><em>ΒΟΥΗΟΛΙΚΑ.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1412 5014">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1412 5014">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1412 5014; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1412 5014; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
